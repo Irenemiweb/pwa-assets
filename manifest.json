@@ -2,7 +2,7 @@
   "name": "Afri Nail art Studio - Salón de Uñas en Ourense",
   "short_name": "Afri Nails",
 
-  "start_url": "/laravel/salon-manicura/public",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#cef1ea",
   "theme_color": "#cef1ea",
